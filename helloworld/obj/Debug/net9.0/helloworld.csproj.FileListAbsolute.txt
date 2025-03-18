@@ -12,3 +12,4 @@ C:\Users\etero\source\repos\helloworld\helloworld\obj\Debug\net9.0\refint\hellow
 C:\Users\etero\source\repos\helloworld\helloworld\obj\Debug\net9.0\helloworld.pdb
 C:\Users\etero\source\repos\helloworld\helloworld\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
 C:\Users\etero\source\repos\helloworld\helloworld\obj\Debug\net9.0\ref\helloworld.dll
+C:\Users\etero\source\repos\helloworld\helloworld\obj\Debug\net9.0\helloworld.sourcelink.json
